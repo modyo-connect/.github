@@ -18,8 +18,8 @@ Organizations can also have profile READMEs that show up on the organization pag
 
 ### modyo-labeler
 
-Used by common workflow **labeler**, in order to add proper labels into pull request. 
+Used by **labeler**'s workflow, to add proper labels into pull request according to specific text found in commits, feature branches and pull requests. 
 
 ### modyo-release-drafter
 
-Used by common workflow **release drafter**, in order to create or update a draft release after a merge into master/main branch.
+Used by **release drafter**'s workflow, to create or update a draft release after a merge into master/main branch.
