@@ -75,10 +75,14 @@ checks:
       failure: Missing semantic label for merge.
     labels:
       any:
+        - build
+        - chore
         - ci
         - docs
         - feat
         - fix
+        - perf
         - refactor
+        - revert
         - style
         - test
