@@ -37,6 +37,7 @@ version-resolver:
   minor:
     labels:
       - 'minor'
+      - 'feat'
   patch:
     labels:
       - 'patch'
