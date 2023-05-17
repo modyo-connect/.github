@@ -15,12 +15,15 @@ categories:
   - title: '🐛 Bug Fixes'
     labels:
       - 'fix'
+      - 'revert'
   - title: '🎨 Refactor'
     labels:
       - 'refactor'
       - 'style'
+      - 'perf'
   - title: '🧰 Maintenance'
     labels:
+      - 'build'
       - 'chore'
       - 'ci'
   - title: '📝 Docs/Test'

@@ -1,6 +1,12 @@
 version: v1
 
 labels:
+  - label: "build"
+    matcher:
+      title: "^build: .*"
+      branch: "build/.*"
+      commits: "^build.*"
+
   - label: "chore"
     matcher:
       title: "^chore: .*"
@@ -31,11 +37,23 @@ labels:
       branch: "fix/.*"
       commits: "^fix.*"
 
+  - label: "perf"
+    matcher:
+      title: "^perf: .*"
+      branch: "perf/.*"
+      commits: "^perf.*"
+
   - label: "refactor"
     matcher:
       title: "^refactor: .*"
       branch: "refactor/.*"
       commits: "^refactor.*"
+
+  - label: "revert"
+    matcher:
+      title: "^revert: .*"
+      branch: "revert/.*"
+      commits: "^revert.*"
 
   - label: "style"
     matcher:
