@@ -1,6 +1,4 @@
-<img alt="Modyo Logo" src="https://cdn.modyo.cloud/uploads/3e33d46c-1555-4f58-a218-6f2b5d80b4cd/original/modyo.svg" width="180">
-
-# Modyo Connect
+# ![Modyo](https://cdn.modyo.cloud/uploads/3e33d46c-1555-4f58-a218-6f2b5d80b4cd/original/modyo.svg#gh-light-mode-only)![Modyo](https://www.modyo.com/hubfs/modyo-logo-white.svg#gh-dark-mode-only) Connect
 
 **Secure cloud infrastructure for enterprise digital experiences.**
 
