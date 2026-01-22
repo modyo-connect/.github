@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://docs.modyo.com/assets/img/modyo-logo-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://docs.modyo.com/assets/img/modyo-logo.png">
-  <img alt="Modyo Logo" src="https://docs.modyo.com/assets/img/modyo-logo.png" width="200">
-</picture>
+<img alt="Modyo Logo" src="https://cdn.modyo.cloud/uploads/3e33d46c-1555-4f58-a218-6f2b5d80b4cd/original/modyo.svg" width="180">
 
 # Modyo Connect
 
@@ -16,7 +12,7 @@ Modyo Connect provides a managed layer of integration APIs and microservices on 
 |------|-------------|-------|
 | **Micro Frontends** | Widgets deployed on Modyo Platform | React 18, TypeScript, Dynamic Framework |
 | **BFF Services** | Backend for Frontend APIs | Java 21, Spring Boot 3.5 |
-| **Shared Libraries** | Reusable components and utilities | Published to GitHub Packages |
+| **Shared Libraries** | Reusable components and utilities | GitHub Packages, Maven Central, npm |
 
 ## Platform Capabilities
 
