@@ -1,12 +1,41 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://docs.modyo.com/assets/img/modyo-logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://docs.modyo.com/assets/img/modyo-logo.png">
+  <img alt="Modyo Logo" src="https://docs.modyo.com/assets/img/modyo-logo.png" width="200">
+</picture>
 
-<!--
+# Modyo Connect
 
-**Here are some ideas to get you started:**
+**Secure cloud infrastructure for enterprise digital experiences.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Modyo Connect provides a managed layer of integration APIs and microservices on AWS, enabling organizations to securely connect business systems with [Modyo](https://www.modyo.com)-powered applications.
+
+## What We Build
+
+| Type | Description | Stack |
+|------|-------------|-------|
+| **Micro Frontends** | Widgets deployed on Modyo Platform | React 18, TypeScript, Dynamic Framework |
+| **BFF Services** | Backend for Frontend APIs | Java 21, Spring Boot 3.5 |
+| **Shared Libraries** | Reusable components and utilities | Published to GitHub Packages |
+
+## Platform Capabilities
+
+- **API Gateway** — Managed entry point for all services
+- **Container Orchestration** — ECS-based microservices deployment
+- **Security** — WAF, TLS certificates, OAuth2/OIDC integration
+- **DevOps** — Blue/green deployments, centralized logging, real-time monitoring
+- **Quality** — SonarCloud analysis, automated testing, code review standards
+
+## Development Standards
+
+Our repositories follow consistent patterns and conventions documented in [`.github/.guidelines`](https://github.com/modyo-connect/.github/tree/main/.guidelines), automatically distributed across all projects.
+
+## Resources
+
+- [Modyo Connect Documentation](https://docs.modyo.com/es/connect/)
+- [Modyo Platform](https://www.modyo.com)
+- [Dynamic Framework](https://dynamicframework.dev)
+
+---
+
+<sub>Operated by Modyo's Site Reliability Engineers with high availability infrastructure on AWS.</sub>
