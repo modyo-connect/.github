@@ -20,7 +20,7 @@ Modyo Connect provides a managed layer of integration APIs and microservices on 
 
 ## Capabilities
 
-- **API Gateway** — Managed entry point for all services
+- **API Entry Point** — Managed entry point for all services
 - **Containers** — ECS-based deployment
 - **Security** — WAF, TLS certificates, OAuth2/OIDC integration
 - **DevOps** — Blue/green deployments, centralized logging, real-time monitoring
