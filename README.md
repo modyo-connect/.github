@@ -44,8 +44,8 @@ Configuración para **release drafter** que crea drafts de releases automáticam
 ## Links
 
 - **Guidelines**: [modyo-connect/.guidelines](https://github.com/modyo-connect/.guidelines)
-- **BFF Template**: [modyo-connect-bff-template](https://github.com/modyo-connect/modyo-connect-bff-template)
-- **Widget Template**: [dynamic-react-base-template](https://github.com/dynamic-framework/dynamic-react-base-template)
+- **BFF Template**: [modyo-connect/modyo-connect-bff-template](https://github.com/modyo-connect/modyo-connect-bff-template)
+- **Widget Template**: [dynamic-framework/dynamic-react-base-template](https://github.com/dynamic-framework/dynamic-react-base-template)
 - **Workflows**: [modyo-connect/workflows](https://github.com/modyo-connect/workflows)
 
 ---
