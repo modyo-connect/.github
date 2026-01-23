@@ -18,10 +18,10 @@ Modyo Connect provides a managed layer of integration APIs and microservices on 
 | **BFF Services** | Backend for Frontend APIs | Java 21, Spring Boot 3.5 |
 | **Shared Libraries** | Reusable components and utilities | GitHub Packages, Maven Central, npm |
 
-## Platform Capabilities
+## Capabilities
 
 - **API Gateway** — Managed entry point for all services
-- **Container Orchestration** — ECS-based microservices deployment
+- **Containers** — ECS-based deployment
 - **Security** — WAF, TLS certificates, OAuth2/OIDC integration
 - **DevOps** — Blue/green deployments, centralized logging, real-time monitoring
 - **Quality** — SonarCloud analysis, automated testing, code review standards
@@ -31,6 +31,8 @@ Modyo Connect provides a managed layer of integration APIs and microservices on 
 - [Modyo Connect Documentation](https://docs.modyo.com/es/connect/)
 - [Modyo Platform](https://www.modyo.com)
 - [Dynamic Framework](https://dynamicframework.dev)
+
+
 
 ---
 
