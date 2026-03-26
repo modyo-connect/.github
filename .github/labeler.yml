@@ -1,0 +1,23 @@
+ # Branch-based labeling (actions/labeler format)
+ feat:
+   - head-branch: ['^feat/', 'feat/']
+ fix:
+   - head-branch: ['^fix/', 'fix/']
+ docs:
+   - head-branch: ['^docs/', 'docs/']
+ chore:
+   - head-branch: ['^chore/', 'chore/']
+ refactor:
+   - head-branch: ['^refactor/', 'refactor/']
+ test:
+   - head-branch: ['^test/', 'test/']
+ ci:
+   - head-branch: ['^ci/', 'ci/']
+ style:
+   - head-branch: ['^style/', 'style/']
+ perf:
+   - head-branch: ['^perf/', 'perf/']
+ build:
+   - head-branch: ['^build/', 'build/']
+ revert:
+   - head-branch: ['^revert/', 'revert/']
